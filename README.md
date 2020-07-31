@@ -34,7 +34,9 @@ A figura a seguir apresenta a aplicação:
 
 <h6 align="center"> Figura 01 - Aplicação mobile </h6>
 <p align="center">
-  <img src="https://res.cloudinary.com/dqqh1oigi/image/upload/v1596146092/Challenge%20GoStack%2005/listTransactions05_nxgem7.png" /> </br>
+  <img src="https://res.cloudinary.com/dqqh1oigi/image/upload/v1596166084/Challenge%20GoStack%2004/Screenshot_20200626-223505_zvhn7v.png" 
+       width=300 /> 
+  </br>
 </p>
 
 ## Execução :rocket:
