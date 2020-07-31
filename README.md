@@ -45,7 +45,7 @@ Para executar a API, siga as instruções:
 
 <p>
   <ol>
-    <li> Instalar dependências de projeto através do comando <b>yarn</b> </li>
+    <li> Siga as instruções de inicialização da API no <a href="https://github.com/DyegoWolf/challenge-gostack-02">desafio 02<\a> </li>
     <li> Inicializar API no servidor através do comando <b>yarn dev:server</b> </li>
   </ol>
 </p>
